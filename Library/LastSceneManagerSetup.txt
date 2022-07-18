@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ModeSelector.unity
+- path: Assets/Scenes/Sounds.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
